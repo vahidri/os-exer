@@ -1,0 +1,8 @@
+wait, turnaround, response | entered, firstRun, finished, length
+90      140     0       |       0       0       140     50
+50      70      5       |       0       5       70      20
+90      130     10      |       0       10      130     40
+80      110     15      |       0       15      110     30
+
+sum: 310 450
+average: 77.5 112.5

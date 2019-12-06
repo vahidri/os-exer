@@ -1,0 +1,47 @@
+>>>FCFS
+wait, turnaround, response | entered, firstRun, finished, length
+0       14      0       |       0       0       14      14
+11      23      11      |       3       14      26      12
+21      28      21      |       5       26      33      7
+26      30      26      |       7       33      37      4
+18      25      18      |       19      37      44      7
+24      29      24      |       20      44      49      5
+
+sum: 100 149
+average: 16.67 24.83
+
+>>>SPN
+wait, turnaround, response | entered, firstRun, finished, length
+0       14      0       |       0       0       14      14
+11      23      11      |       3       14      26      12
+21      28      21      |       5       26      33      7
+26      30      26      |       7       33      37      4
+18      25      18      |       19      37      44      7
+24      29      24      |       20      44      49      5
+
+sum: 100 149
+average: 16.67 24.83
+
+>>>SRT
+wait, turnaround, response | entered, firstRun, finished, length
+0       14      0       |       0       0       14      14
+11      23      11      |       3       14      26      12
+21      28      21      |       5       26      33      7
+26      30      26      |       7       33      37      4
+18      25      18      |       19      37      44      7
+24      29      24      |       20      44      49      5
+
+sum: 100 149
+average: 16.67 24.83
+
+>>>RR(3)
+wait, turnaround, response | entered, firstRun, finished, length
+0       14      0       |       0       0       14      14
+11      23      11      |       3       14      26      12
+21      28      21      |       5       26      33      7
+26      30      26      |       7       33      37      4
+18      25      18      |       19      37      44      7
+24      29      24      |       20      44      49      5
+
+sum: 100 149
+average: 16.67 24.83
